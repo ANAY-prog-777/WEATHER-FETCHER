@@ -13,6 +13,9 @@ Minimalist Design: it is a clean terminal based weather fetcher
 Error Handling: Gracefully manages invalid city inputs , i used if and else so that error doesnt occur when user put invalid city
 
 
+PORTABLE - IT IS VERY LIGHT WEIGHT PYTHON BASED CLI SO IT COULD WORK EVEN ON A POTATO AS ITS ALSO WRITTEN ON ONE 
+
+
 
 TECH STACK-->
 
