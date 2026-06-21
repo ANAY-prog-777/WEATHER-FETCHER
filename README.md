@@ -30,4 +30,10 @@ YOU CAN USE IT BY SIMPLY TYPING OR PUTTING THE CITY U WANT THE INFORMATION OF WE
 
 THATS ALL HOPE U FINS IT USEFUL , ITS MY FIRST API BASED PROJECT
 
+SCRENSHOTS FROM THE PROJECT -------------------------->>>>>
+
+
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/3482f182-3eea-48c1-a07f-dc72debfa045" />
+
+
 
