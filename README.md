@@ -9,7 +9,7 @@ I wanted to move than basic scripts and learn how to integrate external APIs int
 Real time data: it fetches live weather conditions via API
 
 Minimalist Design: it is a clean terminal based weather fetcher
-
+ 
 Error Handling: Gracefully manages invalid city inputs , i used if and else so that error doesnt occur when user put invalid city
 
 
@@ -28,7 +28,7 @@ HOW TO USE ---->
 
 YOU CAN USE IT BY SIMPLY TYPING OR PUTTING THE CITY U WANT THE INFORMATION OF WEATHER OF AND THE COMPUTER SCREEN WILL SHOW YOU THE NECESSARY DETAILS AND INFORMATION OF THE WEATHER
 
-THATS ALL HOPE U FINS IT USEFUL , ITS MY FIRST API BASED PROJECT
+THATS ALL HOPE U FINDS IT USEFUL , ITS MY FIRST API BASED PROJECT
 
 SCRENSHOTS FROM THE PROJECT -------------------------->>>>>
 
@@ -43,9 +43,9 @@ SCREENSHOT 2 ------->
   
 
 
+IN SHORT --->
 
-
-
+ITS CLI BASED TOOL USING PYTHON , UV , API AND JSON WHICH WILL HELP U GIVE WEATHER DETAILES OF PLACES AT YOUR FINGERTIPS WITHOUT EVEN EXITING YOUR ROOM
 
 SIGNING OFF
 
